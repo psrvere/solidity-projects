@@ -13,8 +13,8 @@ In above picture:
     - **Max Priority** - max fee user wants to give to the miner. Miners will naturllay prioritise higher Max Priority Fees transactions
     - **Max** - max fees user is willing to pay for this transaction
 * **Gas Price** - Base Fees + Max Priority Fees
-    - [] Q - In what all cases a user has to pay Max Fees.
-    - [] Q - In what all cases even Max Fees is not sufficient.
+    - [ ] Q - In what all cases a user has to pay Max Fees.
+    - [ ] Q - In what all cases even Max Fees is not sufficient.
 * **Tx Fees** - Gas Price x Gas Used
 
-- [] to understand fees burnt and tx savings read up this later - https://eips.ethereum.org/EIPS/eip-1559
+- [ ] to understand fees burnt and tx savings read up this later - https://eips.ethereum.org/EIPS/eip-1559
